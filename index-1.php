@@ -6,17 +6,15 @@
     <div class="row">
     	<div class="span8">
         	<div class="clearfix cols-1">
-                <div class="span4 left-0">
+                <div class="span8 left-0">
                     <h4>a empresa</h4>
-                    <p class="lead">Praesent vestibulum molestie lacus. Aenean nonummy hendrerit mauris. Phasellus porta.</p>
-                    <figure class="img-indent"><img src="img/page2-img1.jpg" class="img-radius" alt=""></figure>
-                    Praesent vestibulum molestie lacus. Aenean nonummy hendrerit mauris. Phasellus porta. Fusce suscipit varius mi. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Nulla dui. Fusce feugiat malesuada odio. Morbi nunc odio, gravida at, cursus nec, luctus a, lorem. 
-                </div>
-                <div class="span4">
-                    <h4>nossa visão</h4>
-                    <p class="lead">Praesent vestibulum molestie lacus. Aenean nonummy hendrerit mauris. Phasellus porta. </p>
-                    <figure class="img-indent"><img src="img/page2-img2.jpg" class="img-radius" alt=""></figure>
-                    Praesent vestibulum molestie lacus. Aenean nonummy hendrerit mauris. Phasellus porta. Fusce suscipit varius mi. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Nulla dui. Fusce feugiat malesuada odio. Morbi nunc odio, gravida at, cursus nec, luctus a, lorem. 
+                    <p>Apesar da CONCRID ENGENHARIA trabalhar com diversos tipos materiais e técnicas, a origem do seu nome nasceu de um dos materiais mais utilizados no mundo moderno, o CONCRETO, que vem do grego, CONCRID.</p>
+                    <p>O concreto é um material que combina a durabilidade dos agregados graúdos e miúdos com o aglomerante, no caso do Brasil o Cimento Portland, por sua plasticidade ele torna-se um material composto podendo assumir diversas formas. Como vantagens podemos citar a versatilidade, durabilidade, economia e a alta resistência a água.</p>
+                    <p>A CONCRID ENGENHARIA utiliza as mesmas vantagens do concreto, sendo versátil no planejamento e execução de suas obras, executando-as com qualidade para maior durabilidade e resistência do produto entregue ao cliente. Em nossas construções e planejamentos temos como meta propor a maior economia possível, dentro dos padrões de qualidade e preservação do Meio Ambiente.</p>
+                    <h4>Missão</h4>
+                    <p>A CONCRID ENGENHARIA nasceu em outubro de 2013 com a missão de oferecer um melhor planejamento, qualidade e economia em seus empreendimentos.</p>
+                    <h4>valores</h4>
+                    <p>A CONCRID ENGENHARIA busca levar aos nossos clientes os padrões éticos de integridade, inovação, qualidade e competência que uma empresa deve oferecer, para que tenha sucesso e confiança no mercado.</p>
                 </div>
             </div>
             <h4>clientes</h4>
