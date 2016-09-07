@@ -16,7 +16,7 @@ $msg = 0;
             <label>Newsletter</label>
             <div class="clearfix">
                 <input type="text" onFocus="if(this.value =='Enter e-mail here' ) this.value=''" onBlur="if(this.value=='') this.value='Enter e-mail here'" value="Enter e-mail here" >
-                <a href="#" onClick="document.getElementById('newsletter').submit()" class="btn btn_">subscribe</a>
+                <a href="#" onClick="document.getElementById('newsletter').submit()" class="btn btn_">se inscreva</a>
             </div>
         </form>
     </div>

@@ -14,7 +14,7 @@
               </div>  
               <div class="thumbnail-pad">
                   <p>Praesent vestibulum molestie lacus. Aenean noy hendrerit mauris. Phasellus porta. Fusce suscipit varius mi. </p>
-                  <a href="#" class="btn btn_">mais</a>
+                  <a href="#" class="btn btn_">Saiba mais</a>
               </div>
             </div>
           </li>
@@ -26,7 +26,7 @@
               </div>  
               <div class="thumbnail-pad">
                   <p>Praesent vestibulum molestie lacus. Aenean my hendrerit mauris. Phasellus porta. Fusce suscipit varius mi. </p>
-                  <a href="#" class="btn btn_">mais</a>
+                  <a href="#" class="btn btn_">Saiba mais</a>
               </div>
             </div>
           </li>
@@ -38,7 +38,7 @@
               </div>  
               <div class="thumbnail-pad">
                   <p>Aenean nonummy hendrerit mauris. Phasellus porta. Fusce suipit varius mi. Cum sociis natoque penatibus et.</p>
-                  <a href="#" class="btn btn_">mais</a>
+                  <a href="#" class="btn btn_">Saiba mais</a>
               </div>
             </div>
           </li>
@@ -50,7 +50,7 @@
               </div>
               <div class="thumbnail-pad">  
                   <p>Nonummy hendrerit mauris. Phasellus porta. Fusce suscipit varius mi. Cum sociis natoque penatibus et magnis.</p>
-                  <a href="#" class="btn btn_">mais</a>
+                  <a href="#" class="btn btn_">Saiba mais</a>
               </div>
             </div>
           </li>
@@ -72,7 +72,7 @@ hendrerit mauris. Phasellus porta. </p>
                 Praesent vestibulum molestie lacus. Aenean nonummy hendrerit mauris. Phasellus porta. Fusce suscipit varius mi. 
 nascetur ridiculus mus. Nulla dui. Fusce feugiat malesuada odio. Morbi nunc odio, gravida at, cursus nec, luctus a, lorem. 
 Maecenas tristique orci ac  nunc odio sem. <br>
-				<a href="#" class="btn btn_">mais</a>
+				<a href="#" class="btn btn_">Saiba mais</a>
                 </div>
             </div>   
             <div class="span4">
@@ -83,7 +83,7 @@ hendrerit mauris. Phasellus porta. Fusce suscipit varius mi. Lorem ipsum dolor s
                 Praesent vestibulum molestie lacus. Aenean nonummy hendrerit mauris. Phasellus porta. Fusce suscipit varius mi. 
 nascetur ridiculus mus. Nulla dui. Fusce feugiat malesuada odio. Morbi nunc odio, gravida at, cursus nec, luctus a, lorem. 
 Maecenas tristique orci ac  nunc odio sem. <br>
-				<a href="#" class="btn btn_">mais</a>
+				<a href="#" class="btn btn_">Saiba mais</a>
                 </div>
             </div>   
             <div class="span4">
@@ -94,7 +94,7 @@ hendrerit mauris. Phasellus porta. </p>
                 Praesent vestibulum molestie lacus. Aenean nonummy hendrerit mauris. Phasellus porta. Fusce suscipit varius mi. 
 nascetur ridiculus mus. Nulla dui. Fusce feugiat malesuada odio. Morbi nunc odio, gravida at, cursus nec, luctus a, lorem. 
 Maecenas tristique orci ac  nunc odio sem. <br>
-				<a href="#" class="btn btn_">mais</a>
+				<a href="#" class="btn btn_">Saiba mais</a>
                 </div>
             </div>    
     	</div>

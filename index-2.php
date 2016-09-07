@@ -5,13 +5,13 @@
   <div class="container">
     <div class="row">
       <div class="span3">
-          <h4>what we offer</h4>
+          <h4>Concrid faz</h4>
           <ul class="list">
-              <li><a href="#">Vestibulum iaculis lacinia est ster prota</a></li>
-              <li><a href="#">Proin dictum elementum velit</a></li>
-              <li><a href="#">Fusce euismod consequat ante</a></li>
-              <li><a href="#">Lorem ipsum dolor sit amet consectetuer</a></li>
-              <li><a href="#">Adipiscing elit sre pot sre ame</a></li>
+              <li><a href="#">Planejamento e Gerenciamentos de Obras</a></li>
+              <li><a href="#">Projetos de Engenharia</a></li>
+              <li><a href="#">Execução de Obras</a></li>
+              <li><a href="#">Reformas em Condomínios</a></li>
+              <li><a href="#">Projetos de Proteção Contra Incêndio - PPCI</a></li>
               <li><a href="#">Pellentesque sed dolor</a></li>
               <li><a href="#">Aliquam congue fermentum nisl</a></li>
               <li><a href="#">Mauris accumsan nulla vel diam</a></li>
@@ -73,19 +73,19 @@
     </div> 
     <div class="row">
       <div class="span8">
-          <h4>Designer’s  Advices</h4>
+          <h4>Desenhos Técnicos</h4>
           <div class="text-block-1">
               <img src="img/page1-img2.jpg" alt="" class="img-radius" />
               <div>
                   <p class="lead p2">Praesent vestibulum molestie lacus. Aenean nonummy hendrerit mauris. Phasellus porta. </p>
                   Praesent vestibulum molestie lacus. Aenean nonummy hendrerit mauris. Phasellus porta. Fusce suscipit varius mi. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Nulla dui. Fusce feugiat malesuada odio. Morbi nunc odio, gravida at, cursus nec, luctus a, lorem. 
   <br>
-                  <a href="more.html" class="btn btn_">more info</a>
+                  <a href="more.html" class="btn btn_">Saiba mais</a>
               </div>
           </div>
       </div>
       <div class="span4">
-          <h4>new services</h4>
+          <h4>Novos Serviços</h4>
           <ul class="list">
               <li><a href="#">Proin dictum elementum velit lroe portrsene</a></li>
               <li><a href="#">Fusce euismod consequat ante</a></li>
