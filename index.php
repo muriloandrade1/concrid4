@@ -22,7 +22,7 @@
               </div>  
               <div class="thumbnail-pad">
                   <p>Qualidade em Planejamento e Gerenciamento de obras. </p>
-                  <a href="#" class="btn btn_">Saiba mais</a>
+                  <a href="index-7.php" class="btn btn_">Saiba mais</a>
               </div>
             </div>
           </li>

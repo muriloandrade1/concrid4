@@ -9,8 +9,8 @@
           <li class="span3">
             <div class="thumbnail thumbnail_1">
               <div class="caption">
-                <h5>New</h5>
-                <h3>Hair Styles</h3>
+                <h5>Projetos de</h5>
+                <h3>Engenharia</h3>
               </div>  
               <div class="thumbnail-pad">
                   <p>Praesent vestibulum molestie lacus. Aenean noy hendrerit mauris. Phasellus porta. Fusce suscipit varius mi. </p>
@@ -21,8 +21,8 @@
           <li class="span3">
             <div class="thumbnail thumbnail_1">
               <div class="caption">
-                <h5>Hot</h5>
-                <h3>Trends</h3>
+                <h5>Execução de</h5>
+                <h3>Obras</h3>
               </div>  
               <div class="thumbnail-pad">
                   <p>Praesent vestibulum molestie lacus. Aenean my hendrerit mauris. Phasellus porta. Fusce suscipit varius mi. </p>
@@ -33,8 +33,8 @@
           <li class="span3">
             <div class="thumbnail thumbnail_1">
               <div class="caption">
-                <h5>Wedding</h5>
-                <h3>Style</h3>
+                <h5>Planejamento de</h5>
+                <h3>Obras</h3>
               </div>  
               <div class="thumbnail-pad">
                   <p>Aenean nonummy hendrerit mauris. Phasellus porta. Fusce suipit varius mi. Cum sociis natoque penatibus et.</p>
@@ -45,8 +45,8 @@
           <li class="span3">
             <div class="thumbnail thumbnail_1">
               <div class="caption">
-                <h5>Safari</h5>
-                <h3>mood</h3>
+                <h5>Gerenciamento de</h5>
+                <h3>Obras</h3>
               </div>
               <div class="thumbnail-pad">  
                   <p>Nonummy hendrerit mauris. Phasellus porta. Fusce suscipit varius mi. Cum sociis natoque penatibus et magnis.</p>
@@ -59,7 +59,7 @@
     </div>
     <div class="row">
       <div class="span12">
-          <h4 class="bot-0">Summer Fashion</h4>
+          <h4 class="bot-0">Civil</h4>
       </div>
     </div>
     <div class="row"> 
