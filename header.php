@@ -73,23 +73,15 @@ $msg = 0;
                                     <ul class="nav sf-menu">
                                       <li class="active li-first"><a href="index.php"><em class="hidden-phone"></em><span class="visible-phone">Home</span></a></li>
                                       <li><a href="index-1.php">Sobre</a>
-                                        <!--<li class="sub-menu"><a href="index-1.php">Sobre</a>
-                                          <ul>
-                                          <li><a href="#">Welcome Message</a></li>
-                                          <li class="sub-menu"><a href="#">Company Profile</a>
-                                            <ul>
-                                              <li><a href="#">Our Capabilities</a></li>
-                                              <li><a href="#">Advantages</a></li>
-                                              <li><a href="#">Work Team</a></li>
-                                              <li><a href="#">Partnership</a></li>
-                                              <li><a href="#">Support</a></li>
-                                            </ul>
-                                          </li>
-                                          <li><a href="#">Outras histórias</a></li>
-                                          <li><a href="#">Testemunhas</a></li>
-                                        </ul>-->
+
                                       </li>
-                                      <li><a href="servicos.php">Serviços</a></li>
+                                      <li class="sub-menu"><a href="servicos.php">Serviços</a>
+                                          <ul>
+                                              <li><a href="planejamento.php">Planejamento</a></li>
+                                              <li><a href="engenharia.php">Projetos de Engenharia</a></li>
+                                          <li><a href="gerenciamento.php">Gerenciamento</a></li>
+                                          <li><a href="relatorios.php">Relatórios técnicos</a></li>
+                                        </ul>
                                       <li><a href="index-4.php">Portifólio</a></li>
                                       <li><a href="index-5.php">Contatos</a></li>
                                     </ul>
