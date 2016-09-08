@@ -21,7 +21,7 @@
               </div>  
               <div class="thumbnail-pad">
                   <p>Planejar é propor o melhor método estratégico, para entregar um produto de qualidade e no prazo que a sociedade deseja, visando melhorar a vida de todos.</p><br>
-                  <a href="index-7.php" class="btn btn_">Saiba mais</a>
+                  <a href="planejamento.php" class="btn btn_">Saiba mais</a>
               </div>
             </div>
           </li>
@@ -34,7 +34,7 @@
               </div>  
               <div class="thumbnail-pad">
                   <p>Utilizamos as melhores práticas e softwares para o desenvolvimento de projetos de engenharia.</p><br><br>
-                  <a href="#" class="btn btn_">Saiba mais</a>
+                  <a href="engenharia.php" class="btn btn_">Saiba mais</a>
               </div>
             </div>
           </li>
@@ -46,7 +46,7 @@
               </div>  
               <div class="thumbnail-pad">
                   <p>Gerenciamos e executamos obras com profissionais qualificados, tendo sempre como metas a satisfação do cliente, qualidade e prazo na entrega dos serviços.</p>
-                  <a href="#" class="btn btn_">Saiba mais</a>
+                  <a href="gerenciamento.php" class="btn btn_">Saiba mais</a>
               </div>
             </div>
           </li>
@@ -59,7 +59,7 @@
               </div>
               <div class="thumbnail-pad">  
                   <p>Elaboramos relatórios e laudos técnicos de engenharia, memoriais descritivos e Plano de Prevenção Contra Incêndio – PPCI para o CBM/DF.</p><br>
-                  <a href="#" class="btn btn_">Saiba mais</a>
+                  <a href="relatorios.php" class="btn btn_">Saiba mais</a>
               </div>
             </div>
           </li>
@@ -72,7 +72,7 @@
                 <div class="span12">
                     <h4 class="indent-2">Seja bem vindo</h4>
                     <p class="lead">Obrigado pela visita. Sinta-se a vontade em explorar todas páginas de nosso sítio. Se encontrar alguma problema e/ou dificuldade entre em contato com <a href="mailto:webmaster@concrid.com">webmaster@concrid.com</a>. </p>
-                    <br><p class="lead">A Concrid Engenharia é uma empresa de Engenharia Civil, onde prestamos diversos tipos de serviços. Entre no menu <a href="index-2.php">"Serviços"</a> e conheça todas nossas atividades.</p>
+                    <br><p class="lead">A Concrid Engenharia é uma empresa de Engenharia Civil, onde prestamos diversos tipos de serviços. Entre no menu <a href="servicos.php">"Serviços"</a> e conheça todas nossas atividades.</p>
                 </div>
             </div>
         </div>    

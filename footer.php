@@ -13,7 +13,8 @@ $msg = 0;
     <div class="row">
       <div class="span4 float2">
         <form id="newsletter" method="post" >
-            <label>Newsletter</label>
+            <label>Trabalhe aqui</label>
+            <p>Se inscreva e receba as instruções de como pode fazer parte da nossa equipe.</p>
             <div class="clearfix">
                 <input type="text" onFocus="if(this.value =='Enter e-mail here' ) this.value=''" onBlur="if(this.value=='') this.value='Enter e-mail here'" value="Enter e-mail here" >
                 <a href="#" onClick="document.getElementById('newsletter').submit()" class="btn btn_">se inscreva</a>
@@ -24,8 +25,7 @@ $msg = 0;
       	<ul class="footer-menu">
             <li><a href="index.php" class="current">Home Page</a>|</li>
             <li><a href="index-1.php">Sobre</a>|</li>
-            <li><a href="index-2.php">Serviços</a>|</li>
-            <li><a href="index-3.php">Projetos</a>|</li>
+            <li><a href="servicos.php">Serviços</a>|</li>
             <li><a href="index-4.php">Portifolio</a>|</li>
             <li><a href="index-5.php">Contatos</a></li>
         </ul>

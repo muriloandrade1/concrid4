@@ -89,8 +89,7 @@ $msg = 0;
                                           <li><a href="#">Testemunhas</a></li>
                                         </ul>-->
                                       </li>
-                                      <li><a href="index-2.php">Serviços</a></li>
-                                      <li><a href="index-3.php">Projetos</a></li>
+                                      <li><a href="servicos.php">Serviços</a></li>
                                       <li><a href="index-4.php">Portifólio</a></li>
                                       <li><a href="index-5.php">Contatos</a></li>
                                     </ul>
