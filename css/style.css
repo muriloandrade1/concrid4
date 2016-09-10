@@ -49,7 +49,7 @@ p {
 .lead {
   font-size: 14px;
   line-height: 20px;
-  color: #676667;
+  color: #ffffff;
   margin: 0;
   text-decoration: none;
 }
@@ -68,7 +68,7 @@ img.img-radius {
   border-radius: 5px;
 }
 .text-info {
-  color: #676667;
+  color: #ffffff;
   font-size: 13px;
   font-weight: bold;
   margin-bottom: 8px;
