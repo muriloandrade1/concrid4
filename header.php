@@ -20,6 +20,7 @@ $msg = 0;
     <link rel="icon" href="img/favicon.ico" type="image/x-icon">
     <link rel="shortcut icon" href="img/favicon.ico" type="image/x-icon" />
     <link rel="stylesheet" href="css/bootstrap.css" type="text/css" media="screen">
+    <link rel="stylesheet" href="css/bootstrap-responsive.css" type="text/css" media="screen">
     <link rel="stylesheet" href="css/responsive.css" type="text/css" media="screen">
     <link rel="stylesheet" href="css/camera.css" type="text/css" media="screen"> 
     <link rel="stylesheet" href="css/style.css" type="text/css" media="screen">
@@ -75,13 +76,13 @@ $msg = 0;
                                       <li><a href="index-1.php">Sobre</a>
 
                                       </li>
-                                      <li class="sub-menu"><a href="servicos.php">Serviços</a>
-                                          <ul>
+                                      <li><a href="servicos.php">Serviços</a></li>
+                                          <!--<ul>
                                               <li><a href="planejamento.php">Planejamento</a></li>
                                               <li><a href="engenharia.php">Projetos de Engenharia</a></li>
                                           <li><a href="gerenciamento.php">Gerenciamento</a></li>
                                           <li><a href="relatorios.php">Relatórios técnicos</a></li>
-                                        </ul>
+                                        </ul>-->
                                       <li><a href="index-4.php">Portifólio</a></li>
                                       <li><a href="index-5.php">Contatos</a></li>
                                     </ul>

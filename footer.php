@@ -12,14 +12,14 @@ $msg = 0;
    <div class="container">
     <div class="row">
       <div class="span4 float2">
-        <form id="newsletter" method="post" >
+        <!--<form id="newsletter" method="post" >
             <label>Trabalhe aqui</label>
             <p>Se inscreva e receba as instruções de como pode fazer parte da nossa equipe.</p>
             <div class="clearfix">
                 <input type="text" onFocus="if(this.value =='Enter e-mail here' ) this.value=''" onBlur="if(this.value=='') this.value='Enter e-mail here'" value="Enter e-mail here" >
                 <a href="#" onClick="document.getElementById('newsletter').submit()" class="btn btn_">se inscreva</a>
             </div>
-        </form>
+        </form>-->
     </div>
     <div class="span8 float">
       	<ul class="footer-menu">
