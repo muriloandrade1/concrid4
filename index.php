@@ -22,7 +22,8 @@
                             <div class="thumbnail-pad">
                                 <p>Planejar é propor o melhor método estratégico, para entregar um produto de qualidade e no prazo que a sociedade deseja, visando melhorar a vida de todos.</p><br>
                                 <div class="container">
-                                    <span><button class="btn btn_" data-toggle="modal" data-target="#myModal1">Saiba mais</button></span>
+                                    <!--<button class="btn btn_" data-toggle="modal" data-target="#myModal1">Saiba mais</button>-->
+                                    <span><a data-toggle="modal" data-target="#myModal1" class="btn btn_">Saiba mais</a></span>
                                     <!-- Modal -->
                                     <div class="modal fade" id="myModal1" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="false">
                                         <div class="modal-dialog">
@@ -36,7 +37,8 @@
                                                         <p>Nossa empresa, com seu quadro de profissionais altamente qualificados, possui expertise em planejamento, seja estratégico ou executivo de grandes obras, tais como: Ferrovias, Aeroportos, Hidrelétricas e Obras de Artes Especiais.</p>
                                                     </div>
                                                     <div class="modal-footer">
-                                                        <a href="index.php" class="btn btn_" align="right">Sair</a><a href="servicos.php" class="btn btn_" align="left">Todos</a>
+                                                        <a href="servicos.php" class="btn btn_">Todos</a><a href="index.php" class="btn btn_">Sair</a>
+                                                        <!--<button type="button" class="btn btn_" data-dismiss="modal">Sair</button>-->
                                                     </div>
                                                 </div>
                                             </div>
@@ -56,7 +58,7 @@
                             <div class="thumbnail-pad">
                                 <p>Utilizamos as melhores práticas e softwares para o desenvolvimento de projetos de engenharia.</p><br><br>
                                 <div class="container">
-                                    <span><button style="width: 95px; height: 30px" class="btn btn_" data-toggle="modal" data-target="#myModal2">Saiba mais</button></span>
+                                    <span><a data-toggle="modal" data-target="#myModal2" class="btn btn_">Saiba mais</a></span>
                                     <!-- Modal -->
                                     <div class="modal fade" id="myModal2" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="false">
                                         <div class="modal-dialog">
@@ -70,8 +72,8 @@
                                                         <p>Criamos e desenvolvemos projetos executivos, seja de arquitetura, estrutural, instalações prediais, proteção contra incêndio, etc. utilizando softwares de CAD 2D ou 3D e detalhamento técnico para um melhor entendimento na execução da obra.</p>
                                                     </div>
                                                     <div class="modal-footer">
-                                                        <a href="index.php" class="btn btn_" align="right">Sair</a><a href="servicos.php" class="btn btn_" align="left">Todos</a>
-                                                    </div>
+                                                        <a href="servicos.php" class="btn btn_">Conheça todos</a><a href="index.php" class="btn btn_">Sair</a>
+                                                </div>
                                                 </div>
                                             </div>
                                         </div>
@@ -89,7 +91,7 @@
                             <div class="thumbnail-pad">
                                 <p>Gerenciamos e executamos obras com profissionais qualificados, tendo sempre como metas a satisfação do cliente, qualidade e prazo na entrega dos serviços.</p>
                                 <div class="container">
-                                    <span><button style="width: 95px; height: 30px" class="btn btn_" data-toggle="modal" data-target="#myModal3">Saiba mais</button></span>
+                                    <span><a data-toggle="modal" data-target="#myModal3" class="btn btn_">Saiba mais</a></span>
                                     <!-- Modal -->
                                     <div class="modal fade" id="myModal3" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="false">
                                         <div class="modal-dialog">
@@ -104,7 +106,7 @@
                                                         <p>Gerenciamos e Fiscalizamos grandes obras civis além de executamos obras residenciais, reformas de apartamentos e condomínios.</p>
                                                     </div>
                                                     <div class="modal-footer">
-                                                        <a href="index.php" class="btn btn_" align="right">Sair</a><a href="servicos.php" class="btn btn_" align="left">Todos</a>
+                                                        <a href="servicos.php" class="btn btn_">Conheça todos</a><a href="index.php" class="btn btn_">Sair</a>
                                                     </div>
                                                 </div>
                                             </div>
@@ -124,7 +126,8 @@
                             <div class="thumbnail-pad">  
                                 <p>Elaboramos relatórios e laudos técnicos de engenharia, memoriais descritivos e Plano de Prevenção Contra Incêndio – PPCI para o CBM/DF.</p><br>
                                 <div class="container">
-                                    <span><button style="width: 95px; height: 30px" class="btn btn_" data-toggle="modal" data-target="#myModal4">Saiba mais</button></span>
+                                    <!--<span><button style="width: 95px; height: 30px" class="btn btn_" data-toggle="modal" data-target="#myModal4">Saiba mais</button></span>-->
+                                    <span><a data-toggle="modal" data-target="#myModal4" class="btn btn_">Saiba mais</a></span>
                                     <!-- Modal -->
                                     <div class="modal fade" id="myModal4" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="false">
                                         <div class="modal-dialog">
@@ -139,7 +142,7 @@
                                                         <p>Além do Projeto de Proteção Contra Incêndio, elaboramos o Plano de Prevenção Contra Incêndio – PPCI, exigência do CBM/DF para diversos tipos de empreendimentos do DF.</p>
                                                     </div>
                                                     <div class="modal-footer">
-                                                        <a href="index.php" class="btn btn_" align="right">Sair</a><a href="servicos.php" class="btn btn_" align="left">Todos</a>
+                                                         <a href="servicos.php" class="btn btn_">Conheça todos</a><a href="index.php" class="btn btn_">Sair</a>
                                                     </div>
                                                 </div>
                                             </div>
