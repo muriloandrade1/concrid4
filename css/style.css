@@ -918,7 +918,7 @@ address span {
 footer {
   padding: 26px 0 38px 0;
   background: url(../img/footer.jpg) 0 0 repeat-x;
-  color: #116CAD;
+  color: #000;
 }
 footer .span8 > a {
   text-decoration: underline;
