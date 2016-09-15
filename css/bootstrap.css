@@ -146,12 +146,12 @@ body {
   font-family: Arial, Helvetica, sans-serif;
   font-size: 12px;
   line-height: 20px;
-  color: #ffffff;
+  color: #454545;
   background-color: #262528;
   background: url(../img/bg.jpg) 0 0 repeat;
 }
 a {
-  color: #ffffff;
+  color: #116CAD;
   text-decoration: none;
 }
 a:hover {

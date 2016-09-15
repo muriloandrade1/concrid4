@@ -11,7 +11,7 @@ h4,
 h5,
 h6 {
   font-family: "Open Sans", sans-serif;
-  color: #ffffff;
+  color: #116CAD;
   font-weight: bold;
   line-height: 1.2em;
 }
@@ -39,7 +39,7 @@ h4 {
 }
 h5 {
   font-size: 18px;
-  color: #939393;
+  color: #515152;
   font-weight: 600;
   letter-spacing: -1px;
 }
@@ -49,7 +49,7 @@ p {
 .lead {
   font-size: 14px;
   line-height: 20px;
-  color: #ffffff;
+  color: #434343;
   margin: 0;
   text-decoration: none;
 }
@@ -68,7 +68,7 @@ img.img-radius {
   border-radius: 5px;
 }
 .text-info {
-  color: #ffffff;
+  color: #116CAD;
   font-size: 13px;
   font-weight: bold;
   margin-bottom: 8px;
@@ -91,7 +91,7 @@ img.img-radius {
   text-decoration: underline;
 }
 .clr {
-  color: #ffffff;
+  color: #000;
 }
 .underline {
   text-decoration: underline;
@@ -274,7 +274,7 @@ h1.brand span {
   display: inline-block;
   margin: 7px 62px 0 0px;
   padding: 6px 45px 10px 0;
-  color: #ffffff;
+  color: #434343;
   line-height: 22px;
   background: url(../img/line-1.png) right 0 repeat-y;
 }
@@ -328,7 +328,7 @@ h1.brand span {
 .navbar_ .navbar-inner_ {
   padding: 18px 0px 19px 45px;
   margin: 0;
-  background: url(../img/navbar.png) 0 0 repeat-x;
+  background: rgb(156, 156, 156) url(../img/navbar.png) 0 0 repeat-x;
   border: none;
   min-height: inherit;
   filter: progid:DXImageTransform.Microsoft.gradient(enabled = false);
@@ -364,7 +364,7 @@ h1.brand span {
 }
 .nav-collapse_ .nav li a {
   line-height: 17px;
-  color: #ffffff;
+  color: #116CAD;
   text-transform: uppercase;
   text-shadow: none;
   text-decoration: none;
@@ -776,7 +776,7 @@ address span {
   padding-top: 11px;
 }
 .contact-form input {
-  color: #c4c3c4;
+  color: #116CAD;
   height: 36px;
   width: 270px;
   padding: 10px 0 11px 18px;
@@ -822,7 +822,7 @@ address span {
   padding: 9px 0 0 18px;
   margin: 0;
   resize: none;
-  color: #939393;
+  color: #116CAD;
   border: none !important;
   -webkit-box-sizing: border-box;
   -moz-box-sizing: border-box;
@@ -918,7 +918,7 @@ address span {
 footer {
   padding: 26px 0 38px 0;
   background: url(../img/footer.jpg) 0 0 repeat-x;
-  color: #8e8e8e;
+  color: #116CAD;
 }
 footer .span8 > a {
   text-decoration: underline;
@@ -943,7 +943,7 @@ footer .span8 > a:hover {
 }
 .footer-menu li a {
   margin: 0 12px;
-  color: #8e8e8e;
+  color: #116CAD;
   text-transform: uppercase;
   text-decoration: none;
 }

@@ -53,6 +53,9 @@ $msg = 0;
 
 <body>
 <!--==============================header=================================-->
+        <?php
+        $ini = parse_ini_file('language/pt.ini', true);
+        ?>
 <header class="p0">
     <div class="container">
     	<div class="row">
