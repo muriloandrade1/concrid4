@@ -13,7 +13,7 @@
             <div class="span3">
                 <div class="thumbnail thumbnail_4">  
                     <figure><img src="img/page5-img1.jpg" class="img-radius" alt=""></figure>
-                    <p class="lead p2"><a href="#" class="lead">Instalações Elétricas e Segurança</a></p>                    
+                    <p class="lead p2"><a href="" class="lead">Instalações Elétricas e Segurança</a></p>                    
                 </div>
             </div>   
             <div class="span3">
