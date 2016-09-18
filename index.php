@@ -1,4 +1,5 @@
 <?php include'header.php'; ?>
+
 <div class="slider">
     <div class="camera_wrap">
         <div data-src="img/slide1.jpg"></div>
@@ -22,7 +23,6 @@
                                 <p>Planejar é propor o melhor método estratégico, para entregar um produto de qualidade e no prazo que a sociedade deseja, visando melhorar a vida de todos.</p><br>
                                 <a data-toggle="modal" data-target="#myModal1" class="btn btn_">Saiba mais</a>
                             </div>
-                            <div class="container">
                                 <!-- Modal -->
                                 <div class="modal fade" id="myModal1" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="false">
                                     <div class="modal-dialog">
@@ -43,7 +43,7 @@
                                         </div>
                                     </div>
                                 </div>
-                            </div>
+                        </div>
                     </li>
                     <li class="span3">
                         <div class="thumbnail">
@@ -56,8 +56,6 @@
                                 <p>Utilizamos as melhores práticas e softwares para o desenvolvimento de projetos de engenharia.</p><br><br>
                                 <a data-toggle="modal" data-target="#myModal2" class="btn btn_">Saiba mais</a>
                             </div>
-
-                            <div class="container">
                                 <!-- Modal -->
                                 <div class="modal fade" id="myModal2" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="false">
                                     <div class="modal-dialog">
@@ -77,7 +75,7 @@
                                         </div>
                                     </div>
                                 </div>
-                            </div>
+                        </div>
                     </li>
                     <li class="span3">
                         <div class="thumbnail">
@@ -89,8 +87,7 @@
                                 <p>Gerenciamos e executamos obras com profissionais qualificados, tendo sempre como metas a satisfação do cliente, qualidade e prazo na entrega dos serviços.</p>
                                 <a data-toggle="modal" data-target="#myModal3" class="btn btn_">Saiba mais</a>
                             </div>
-                            <div class="container">
-                                <!-- Modal -->
+                                 <!-- Modal -->
                                 <div class="modal fade" id="myModal3" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="false">
                                     <div class="modal-dialog">
                                         <div class="modal-content">
@@ -110,8 +107,8 @@
                                         </div>
                                     </div>
                                 </div>
-                            </div>
-                    </li>
+                        </div>
+                     </li>
                     <li class="span3">
                         <div class="thumbnail">
                             <div class="caption">
@@ -123,8 +120,7 @@
                                 <p>Elaboramos relatórios e laudos técnicos de engenharia, memoriais descritivos e Plano de Prevenção Contra Incêndio – PPCI para o CBM/DF.</p><br>
                                 <a data-toggle='modal' data-target='#myModal4' class='btn btn_'>Saiba mais</a>
                             </div>
-                            <div class='container'>
-                                <!-- Modal -->
+                                 <!-- Modal -->
                                 <div class='modal fade' id='myModal4' tabindex='-1' role='dialog' aria-labelledby='myModalLabel' aria-hidden='false'>
                                     <div class='modal-dialog'>
                                         <div class='modal-content'>
@@ -144,8 +140,8 @@
                                         </div>
                                     </div>
                                 </div>
-                            </div>
-                    </li>
+                        </div>
+                     </li>
                 </ul>
 
             </div>

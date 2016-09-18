@@ -6,6 +6,8 @@
  */
 $msg = 0;
 @$msg = $_REQUEST['msg'];
+$ini = parse_ini_file('language/pt.ini', true);
+
 ?>
 <!DOCTYPE html>
 <html lang="en">
@@ -54,9 +56,6 @@ $msg = 0;
 
     <body>
         <!--==============================header=================================-->
-        <?php
-        $ini = parse_ini_file('language/pt.ini', true);
-        ?>
         <header class="p0">
             <div class="container">
                 <div class="row">
