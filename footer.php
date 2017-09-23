@@ -13,8 +13,8 @@ $msg = 0;
     <div class="row">
       <div class="span4 float2">
         <!--<form id="newsletter" method="post" >
-            <label>Trabalhe aqui</label>
-            <p>Se inscreva e receba as instruções de como pode fazer parte da nossa equipe.</p>
+            <p>Fique por dentro</p>
+            <p>Se inscreva e receba nptícias de nosso site.</p>
             <div class="clearfix">
                 <input type="text" onFocus="if(this.value =='Enter e-mail here' ) this.value=''" onBlur="if(this.value=='') this.value='Enter e-mail here'" value="Enter e-mail here" >
                 <a href="#" onClick="document.getElementById('newsletter').submit()" class="btn btn_">se inscreva</a>
